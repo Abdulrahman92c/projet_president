@@ -1,0 +1,60 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+
+<racine>
+<produit>
+    <image path="./asset/Charles_de_Gaulles.jpeg" />
+    <nom>Charles de Gaulles</nom>
+    <mandat>1959-1969</mandat>
+    <naissance>1890</naissance>
+    <statut>1970</statut>
+</produit>
+<produit>
+    <image path="./asset/George_Pompidou.jpeg" />
+    <nom>George Pompidou</nom>
+    <mandat>1969-1974</mandat>
+    <naissance>1911</naissance>
+    <statut>1974</statut>
+</produit>
+<produit>
+    <image path="./asset/Valérie_Giscard_Estaing.jpeg" />
+    <nom>Valérie Giscard Estaing</nom>
+    <mandat>1974-1981</mandat>
+    <naissance>1926</naissance>
+    <statut>2020</statut>
+</produit>
+<produit>
+    <image path="./asset/François_Mitterand.jpeg" />
+    <nom>Francois Mitterand</nom>
+    <mandat>1981-1995</mandat>
+    <naissance>1926</naissance>
+    <statut>1996</statut>
+</produit>
+<produit>
+    <image path="./asset/Jacques_Chirac.jpeg" />
+    <nom>Jacques Chirac</nom>
+    <mandat>1995-2007</mandat>
+    <naissance> 1932</naissance>
+    <statut>2019</statut>
+</produit>
+<produit>
+    <image path="./asset/Nicolas_Sarkozy.jpeg" />
+    <nom>Nicolas Sarkozy</nom>
+    <mandat>2007-2012</mandat>
+    <naissance>1955</naissance>
+    <statut>vivant</statut>
+</produit>
+<produit>
+    <image path="./asset/François_Hollande.jpeg" />
+    <nom> François Hollande</nom>
+    <mandat>2012-2017</mandat>
+    <naissance>1954</naissance>
+    <statut>vivant</statut>
+</produit>
+<produit>
+    <image path="./asset/Emmanuel_Macron.jpeg"/>
+    <nom>Emmanuel Macron</nom>
+    <mandat>2017-aujourd'hui</mandat>
+    <naissance>1976</naissance>
+    <statut>Trop jeune</statut>
+</produit>
+</racine>
