@@ -1,0 +1,76 @@
+{
+  "produit": [
+    {
+      "image": {
+        "path": "./asset/Charles_de_Gaulles.jpeg"
+      },
+      "nom": "Charles de Gaulles",
+      "mandat": "1959-1969",
+      "naissance": "1890",
+      "statut": "1970"
+    },
+    {
+      "image": {
+        "path": "./asset/George_Pompidou.jpeg"
+      },
+      "nom": "George Pompidou",
+      "mandat": "1969-1974",
+      "naissance": "1911",
+      "statut": "1974"
+    },
+    {
+      "image": {
+        "path": "./asset/Valérie_Giscard_Estaing.jpeg"
+      },
+      "nom": "Valérie Giscard Estaing",
+      "mandat": "1974-1981",
+      "naissance": "1926",
+      "statut": "2020"
+    },
+    {
+      "image": {
+        "path": "./asset/François_Mitterand.jpeg"
+      },
+      "nom": "François Mitterand",
+      "mandat": "1981-1995",
+      "naissance": "1926",
+      "statut": "1996"
+    },
+    {
+      "image": {
+        "path": "./asset/Jacques_Chirac.jpeg"
+      },
+      "nom": "Jacques Chirac",
+      "mandat": "1995-2007",
+      "naissance": "1932",
+      "statut": "2019"
+    },
+    {
+      "image": {
+        "path": "./asset/Nicolas_Sarkozy.jpeg"
+      },
+      "nom": "Nicolas Sarkozy",
+      "mandat": "2007-2012",
+      "naissance": "1955",
+      "statut": "vivant"
+    },
+    {
+      "image": {
+        "path": "./asset/François_Hollande.jpeg"
+      },
+      "nom": "François Hollande",
+      "mandat": "2012-2017",
+      "naissance": "1954",
+      "statut": "vivant"
+    },
+    {
+      "image": {
+        "path": "./asset/Emmanuel_Macron.jpeg"
+      },
+      "nom": "Emmanuel Macron",
+      "mandat": "2017-aujourd'hui",
+      "naissance": "1976",
+      "statut": "Trop jeune"
+    }
+  ]
+}
